@@ -10,8 +10,8 @@ Este repositório é mantido por **Willian Rosa** e existe como material de refe
 - [Mensuração de aquisição](recursos/mensuracao.md)
 
 ## Guias completos
-- https://willian-site.vercel.app/conteudos
-- https://willian-site.vercel.app/checklist-presenca-digital-psicologo
+- https://willianrosa.com.br/conteudos
+- https://willianrosa.com.br/checklist-presenca-digital-psicologo
 
 ## Princípios
 1. conteúdo útil antes de volume;

@@ -16,7 +16,7 @@ SEO responsável não significa multiplicar URLs trocando uma palavra-chave. O o
 
 Uma página local só faz sentido quando existe atuação real naquela região. Uma página de serviço só deve existir quando houver conteúdo suficiente para explicar aquele serviço de forma útil.
 
-Guia ampliado: https://willian-site.vercel.app/seo-para-psicologos
+Guia ampliado: https://willianrosa.com.br/seo-para-psicologos
 
 ## 3. Confiança: a identidade profissional está consistente?
 
@@ -30,7 +30,7 @@ Nem todo visitante está pronto para preencher um formulário longo. Para o prim
 
 Pergunte: o botão principal está visível no mobile? A página deixa claro o que acontece depois do clique? O contato pede apenas os dados realmente necessários? Existe alternativa para quem ainda não sabe exatamente o que precisa? A origem do contato pode ser identificada depois?
 
-Checklist interativo: https://willian-site.vercel.app/checklist-presenca-digital-psicologo
+Checklist interativo: https://willianrosa.com.br/checklist-presenca-digital-psicologo
 
 ## 5. Base técnica: remover barreiras antes de buscar “truques”
 
@@ -46,7 +46,7 @@ A auditoria fica incompleta se terminar em impressões e sessões. O ideal é co
 
 Search Console ajuda a entender consultas e páginas na Pesquisa. Analytics ajuda a observar navegação e eventos. O pipeline comercial fecha a última parte da jornada.
 
-Guia de mensuração: https://willian-site.vercel.app/analytics-para-psicologos
+Guia de mensuração: https://willianrosa.com.br/analytics-para-psicologos
 
 ## Um modelo prático de prioridade
 
@@ -71,4 +71,4 @@ Uma boa auditoria não existe para justificar um projeto maior. Ela existe para 
 
 ---
 
-Material mantido por **Willian Rosa**. Outros guias: https://willian-site.vercel.app/conteudos
+Material mantido por **Willian Rosa**. Outros guias: https://willianrosa.com.br/conteudos
