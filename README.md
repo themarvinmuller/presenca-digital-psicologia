@@ -19,3 +19,7 @@ Este repositório é mantido por **Willian Rosa** e existe como material de refe
 3. dados e mensuração para decidir o que evoluir;
 4. sem promessa artificial de primeira posição;
 5. comunicação profissional e revisão humana em temas sensíveis.
+
+## Artigos
+
+- [Do Search Console ao lead: como medir presença digital sem confundir tráfego com resultado](artigos/do-search-console-ao-lead.md)
