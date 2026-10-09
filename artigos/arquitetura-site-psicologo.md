@@ -1,36 +1,41 @@
-# Arquitetura de site para psicólogos: como organizar páginas por intenção real
+# Arquitetura de site para psicólogos: páginas por intenção real
 
-Um site de psicologia funciona melhor quando a arquitetura responde às dúvidas que a pessoa já tem antes de entrar em contato. O objetivo não é criar muitas páginas, e sim separar intenções diferentes sem duplicar conteúdo.
+Uma arquitetura útil separa dúvidas reais sem multiplicar páginas quase iguais. O objetivo é ajudar a pessoa a entender o serviço, confiar no profissional e encontrar o próximo passo.
 
-## Um mapa simples de intenção
+## Um mapa simples
 
-Uma estrutura comum pode combinar:
+Uma estrutura pode combinar:
 
 - página principal para posicionamento e orientação geral;
-- página de psicoterapia ou serviço principal;
-- páginas específicas quando existe uma intenção realmente diferente, como psicoterapia online, avaliação neuropsicológica ou atendimento para empresas;
+- página do serviço principal;
+- páginas específicas quando existe intenção realmente diferente, como atendimento online, avaliação neuropsicológica ou palestras para empresas;
 - página sobre a profissional;
 - dúvidas frequentes;
-- conteúdo educativo ligado às perguntas que aparecem antes do contato;
-- uma rota clara para WhatsApp ou outro canal de atendimento.
+- conteúdos educativos ligados às perguntas anteriores ao contato;
+- caminho claro para contato.
 
-A regra é simples: uma página nova precisa resolver uma dúvida específica melhor do que a página existente.
+A regra prática é: uma URL nova precisa responder uma dúvida específica melhor do que a página que já existe.
 
-## Quando não criar outra página
+## O que evitar
 
-Evite criar páginas quase idênticas apenas trocando bairro, cidade ou palavra-chave. Isso tende a produzir conteúdo fraco e pouco útil. Para SEO local, a presença geográfica precisa corresponder à atuação real do profissional.
+Criar dezenas de páginas mudando apenas cidade, bairro ou palavra-chave produz pouca utilidade e pode gerar uma arquitetura difícil de manter. Presença local deve refletir atuação real.
 
-## O que observar em cada página
+## O que revisar por página
 
-Cada URL importante deve ter uma intenção principal clara, título coerente, um único H1, contexto suficiente, links relacionados e um próximo passo natural.
+1. intenção principal clara;
+2. título e H1 coerentes;
+3. contexto suficiente sobre o serviço;
+4. links para assuntos relacionados;
+5. próximo passo natural;
+6. identificação profissional verificável;
+7. conteúdo sem promessa taxativa de resultado.
 
-## A arquitetura também serve para medir
+## A arquitetura também melhora a mensuração
 
-Quando cada página tem uma função clara, fica mais fácil distinguir entrada orgânica, página visitada, clique no CTA, tentativa de contato, lead recebido e conversão posterior. Misturar essas etapas cria métricas infladas.
+Quando cada página tem função clara, fica mais simples separar entrada orgânica, página visitada, clique no CTA, contato recebido e conversão posterior. Misturar essas etapas infla métricas.
 
-## Referências práticas
+Leitura complementar: https://willianrosa.com.br/seo-para-psicologos
 
-- SEO para psicólogos: https://willianrosa.com.br/seo-para-psicologos
-- Sites para psicólogos: https://willianrosa.com.br/sites-para-psicologos
+Estrutura comercial: https://willianrosa.com.br/sites-para-psicologos
 
 Material mantido por **Willian Rosa**, especialista em Business Analytics, CRM, Customer Insights e produtos digitais.

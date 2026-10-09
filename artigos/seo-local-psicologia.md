@@ -1,28 +1,31 @@
-# SEO local para psicólogos sem criar presença geográfica artificial
+# SEO local para psicólogos sem presença geográfica artificial
 
-SEO local pode ajudar um profissional a ser encontrado em buscas relacionadas a cidade ou região, mas a otimização precisa refletir a atuação real.
+SEO local só faz sentido quando a comunicação corresponde à atuação real. Endereço, unidade, área atendida e modalidade de atendimento não devem ser inventados para disputar uma busca.
 
-## O princípio central
+## O que pode ser otimizado
 
-A presença local deve ser consequência de uma operação verdadeira. Não vale inventar endereço, unidade, bairro atendido ou estrutura física apenas para disputar uma busca.
+Quando existe atendimento presencial ou área de serviço legítima:
 
-## O que faz sentido otimizar
+- nome profissional e registro consistentes;
+- endereço ou área atendida corretamente descritos;
+- páginas que expliquem onde e como o atendimento acontece;
+- dados estruturados coerentes;
+- Perfil da Empresa no Google somente quando houver elegibilidade;
+- referências locais naturais em conteúdo e páginas de serviço;
+- informações de contato consistentes entre propriedades próprias.
 
-Quando existe atendimento presencial ou área de serviço legítima, ajudam endereço ou área atendida consistentes, identificação profissional correta, páginas que expliquem onde e como o atendimento acontece, dados estruturados coerentes, Perfil da Empresa quando houver elegibilidade e referências locais naturais.
+Para atendimento exclusivamente online, o foco pode ser modalidade, público e abrangência real, sem fabricar relevância local.
 
-Para atendimento exclusivamente online, a estratégia muda: o foco pode ser a modalidade, o público e a abrangência real, sem fabricar relevância local.
+## Quando uma página local merece existir
 
-## Página local: quando vale a pena
-
-Uma página específica para uma cidade deve acrescentar informação útil, como formato de atendimento, acesso, contexto da região, modalidades disponíveis ou dúvidas daquele público. Se a única mudança for trocar o nome da cidade, provavelmente a página não deveria existir.
+Ela deve acrescentar informação útil, por exemplo acesso, modalidade, contexto da região, disponibilidade ou dúvidas específicas daquele público. Se a única mudança for o nome da cidade, provavelmente a página não deveria existir.
 
 ## Como medir
 
-Separe impressões locais, posição média, cliques, sessões, cliques em contato e contatos efetivamente recebidos. Um clique em WhatsApp não é automaticamente um lead.
+Separe impressões de buscas locais, cliques, sessões, clique de contato e contato efetivamente recebido. Um clique no WhatsApp não é automaticamente um lead.
 
-## Referências práticas
+Exemplo de estrutura local: https://willianrosa.com.br/site-para-psicologos-jundiai
 
-- Estrutura local para Jundiaí: https://willianrosa.com.br/site-para-psicologos-jundiai
-- SEO local para psicólogos: https://willianrosa.com.br/seo-local-para-psicologos
+Guia completo: https://willianrosa.com.br/seo-local-para-psicologos
 
 Material mantido por **Willian Rosa**.

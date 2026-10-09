@@ -1,26 +1,35 @@
-# IA e automação na operação de psicologia: onde automatizar e onde manter decisão humana
+# IA e automação na operação de psicologia: onde automatizar e onde revisar
 
-Automação útil não é a que coloca IA em todas as etapas. É a que reduz trabalho repetitivo sem deslocar decisões sensíveis para um sistema automático.
+Automação útil não é colocar IA em todas as etapas. É reduzir trabalho repetitivo sem deslocar decisões sensíveis para um sistema automático.
 
-## Bons candidatos à automação
+## Bons candidatos
 
-Agenda, lembretes, classificação de tarefas operacionais, preparação de contexto, consolidação de indicadores, geração de rascunhos administrativos, identificação de pendências e atualização de status entre sistemas.
+- organização de agenda;
+- lembretes;
+- classificação de tarefas administrativas;
+- preparação de contexto;
+- consolidação de indicadores;
+- rascunhos administrativos;
+- identificação de pendências;
+- atualização de status entre sistemas.
 
-## Onde exigir revisão humana
+## Onde manter revisão humana
 
-Quanto maior o impacto sobre uma pessoa, maior deve ser a supervisão. Decisões clínicas, interpretações diagnósticas, orientações de saúde e registros sensíveis não devem ser tratados como simples automação de escritório.
+Quanto maior o impacto sobre uma pessoa, maior deve ser a supervisão. Decisões clínicas, interpretações diagnósticas, orientações de saúde e registros sensíveis não devem ser tratados como automação comum de escritório.
 
-## Um critério prático
+## Seis perguntas antes de automatizar
 
-Antes de automatizar, pergunte: a tarefa é repetitiva? Existe regra clara? O erro é reversível? Há dado sensível? Alguém revisa a saída? A automação realmente reduz trabalho?
+1. a tarefa é repetitiva?
+2. existe regra clara?
+3. o erro é reversível?
+4. há dado sensível?
+5. alguém revisa a saída?
+6. a automação reduz trabalho de verdade?
 
-## Arquitetura saudável
+Uma arquitetura saudável costuma separar **coleta → organização → sugestão → revisão humana → decisão → registro**.
 
-Um fluxo robusto tende a separar **coleta → organização → sugestão → revisão humana → decisão → registro**.
+IA e automação para psicólogos: https://willianrosa.com.br/ia-automacao-para-psicologos
 
-## Referências práticas
-
-- IA e automação para psicólogos: https://willianrosa.com.br/ia-automacao-para-psicologos
-- Case de automação e CRM: https://willianrosa.com.br/case-automacao-crm
+Case demonstrativo de automação e CRM: https://willianrosa.com.br/case-automacao-crm
 
 Material mantido por **Willian Rosa**.
