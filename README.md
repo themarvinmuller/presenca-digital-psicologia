@@ -23,3 +23,7 @@ Este repositório é mantido por **Willian Rosa** e existe como material de refe
 ## Artigos
 
 - [Do Search Console ao lead: como medir presença digital sem confundir tráfego com resultado](artigos/do-search-console-ao-lead.md)
+- [Arquitetura de site para psicólogos: páginas por intenção real](artigos/arquitetura-site-psicologo.md)
+- [SEO local para psicólogos sem presença artificial](artigos/seo-local-psicologia.md)
+- [Como medir WhatsApp sem confundir clique, lead e conversão](artigos/mensurar-whatsapp-sem-inventar-conversao.md)
+- [IA e automação na psicologia: onde automatizar e onde manter decisão humana](artigos/ia-automacao-psicologia.md)
