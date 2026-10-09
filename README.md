@@ -9,6 +9,10 @@ Este repositório é mantido por **Willian Rosa** e existe como material de refe
 - [SEO responsável](recursos/seo-responsavel.md)
 - [Mensuração de aquisição](recursos/mensuracao.md)
 
+## Ferramentas abertas
+
+- [Matriz aberta de auditoria de presença digital para psicólogos](recursos/matriz-auditoria-presenca-digital.md)
+
 ## Guias completos
 - https://willianrosa.com.br/conteudos
 - https://willianrosa.com.br/checklist-presenca-digital-psicologo
